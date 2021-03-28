@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Do Tuan Hoang
 
 <!--
 **tomodachii/tomodachii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<img src="https://simpleicons.org/icons/java.svg">
+I am a student, a gamer, a book-lover. <br>
+My favorite author is Kafka. <br>
+I play guitar, piano, and I do street workout everyday with my friends. Nice to meet you
 
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
