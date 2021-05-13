@@ -4,9 +4,9 @@
 **tomodachii/tomodachii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a student, a gamer, a book-lover. <br>
-My favorite author is Kafka. <br>
-I play guitar, piano, and I do street workout everyday with my friends. Nice to meet you
+I am currently studying in HUST. <br>
+I love reading and playing guitar. <br>
+Nice to meet you
 
 <!--
 - 🔭 I’m currently working on ...
